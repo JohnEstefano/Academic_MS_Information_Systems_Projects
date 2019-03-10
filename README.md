@@ -12,3 +12,4 @@ You will find:
 - R Projects
 - SQL Projects
 
+## Note: PDF files must be downloaded to view!
