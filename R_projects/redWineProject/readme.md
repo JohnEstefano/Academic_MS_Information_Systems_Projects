@@ -1,14 +1,3 @@
-1.
-https://github.com/dpipkin/udacity-wine
-
-
-2.
-https://github.com/allanbreyes/udacity-data-science/blob/master/p3/submission.Rmd
-
-
-3.
-https://s3.amazonaws.com/content.udacity-data.com/courses/ud651/diamondsExample_2016-05.html
-
 
 Project Overview
 In this project, you will use R and apply exploratory data analysis techniques in a selected dataset to discover relationships among multiple variables, and create explanatory visualizations illuminating distributions, outliers, and anomalies.
